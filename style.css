@@ -23,6 +23,7 @@ a {
   padding: 10px;
   gap: 10px;
 }
+
 #logo {
   font-weight: 600;
   font-size: 30px;
@@ -44,11 +45,13 @@ a {
   background: #262626;
   border-radius: 10px;
 }
+
 #login,
 #explore,
 #rent {
   text-align: center;
 }
+
 #search {
   padding: 10px;
   border: none;
@@ -75,20 +78,24 @@ h4 {
   margin: 30px;
   padding: 10px;
 }
+
 #banner1 h4 {
   color: white;
   margin-top: 30px;
   font-size: 30px;
 }
+
 #banner1 p {
   color: white;
   font-size: 20px;
   display: inline-block;
 }
+
 #banner1 img {
   margin: 10px;
   border-radius: 60px;
 }
+
 #bt1 {
   background-color: yellow;
   border: 2px solid yellow;
@@ -96,12 +103,14 @@ h4 {
   font-weight: 30px;
   border-radius: 30px;
 }
+
 #clock img {
   margin-bottom: 60px;
   padding-top: 20px;
   padding-left: 150px;
   border-radius: 150px;
 }
+
 #clock button {
   padding-right: 10px;
   margin-right: 20px;
@@ -113,23 +122,28 @@ h4 {
   margin: 50px;
   padding: 10px;
 }
+
 f {
   font-size: 20px;
   color: white;
   font-weight: 30px;
 }
+
 .poi ul {
   list-style: none;
 }
+
 .poi1 ul {
   list-style: none;
 }
+
 #card1 {
   background-color: #262626;
   color: white;
   margin: 10px;
   padding: 10px;
 }
+
 #b1 {
   background-color: yellow;
   width: 150px;
@@ -140,6 +154,7 @@ f {
   font-weight: 100px;
   float: right;
 }
+
 #card2 {
   background-color: #262626;
   color: white;
@@ -157,6 +172,7 @@ f {
   font-weight: 100px;
   float: right;
 }
+
 #card3 {
   background-color: #262626;
   color: white;
@@ -174,6 +190,7 @@ f {
   font-weight: 100px;
   float: right;
 }
+
 #card4 {
   background-color: #262626;
   color: white;
@@ -191,6 +208,7 @@ f {
   font-weight: 100px;
   float: right;
 }
+
 #card5 {
   background-color: #262626;
   color: white;
@@ -208,6 +226,7 @@ f {
   font-weight: 100px;
   float: right;
 }
+
 #card6 {
   background-color: #262626;
   color: white;
@@ -218,6 +237,7 @@ f {
 #bt1 {
   border-radius: 15px;
 }
+
 #bt1:hover {
   border: 2px solid white;
   font-weight: 700;
